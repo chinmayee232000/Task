@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RachTR_task</string>
+    <string-array name="options_array">
+        <item>Executive</item>
+        <item>HOD</item>
+        <item>Manager</item>
+    </string-array>
+</resources>
